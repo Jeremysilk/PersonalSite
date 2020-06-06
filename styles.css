@@ -1,0 +1,70 @@
+
+
+
+
+    body {
+      background-color: #e4f9f5;
+
+
+    }
+
+    hr {
+      background-color: #40514e;
+      border-style: groove none none none;
+      border-width: thick;
+      border-color: #30e3ca;
+      border-top-width: 2em;
+      width: 100%;
+    }
+
+
+   h1 {
+      color: #005691;
+
+   }
+  h2 {
+    color: #005691;
+
+  }
+img {
+  background color; #d6e4f0;
+
+
+}
+.ProfilePicture {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.BikePictures{
+  height: 250px;
+  width: 350px;
+}
+li {
+list-style: none;}
+.Header {
+  padding-top: 60px;
+  padding-bottom: 40px
+  position: fixed;
+  background: #30e3ca;
+}
+.ProfileTable {
+  background-color: none;
+}
+.ComparisonTable {
+  background-color: #d6e4f0;
+  border-color: #30e3ca;
+  border-style: groove;
+  border-width: 5px;
+  table-layout: auto;
+  height: 30%;
+  width: 100%;
+}
+
+
+
+.Footer {
+padding-bottom: 40px;
+background: #30e3ca;
+padding-top: 1px;
+}
